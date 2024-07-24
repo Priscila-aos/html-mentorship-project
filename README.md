@@ -15,7 +15,7 @@ Para começar, crie um fork do repositório
 - Aula 01:
   - [x] Iniciar o projeto com o arquivo HTML
   - [x] Adicionar e referenciar os estilos criando um arquivo CSS
-  - [ ] Adicionar o normalize.css para padronização dos estilos entre browsers
+  - [x] Adicionar o normalize.css para padronização dos estilos entre browsers
   - [ ] Mudar o título da página para "Palestrante - Wellington Almeida"
   - [ ] Começar criação do header da página
     - [ ] Criar estrutura básica da página usando divs e classes
