@@ -19,9 +19,9 @@ Para começar, crie um fork do repositório
   - [x] Mudar o título da página para "Palestrante - Wellington Almeida"
   - [x] Começar criação do header da página
     - [x] Criar estrutura básica da página usando divs e classes
-    - [ ] Usar inspecionar elementos e/ou extensão para ver as cores da página
-    - [ ] Usar inspecionar elementos e/ou sources para identificar as fontes da página (tipografia)
-      - [ ] Alterar fonte da página para usar a fonte Inter
+    - [x] Usar inspecionar elementos e/ou extensão para ver as cores da página
+    - [x] Usar inspecionar elementos e/ou sources para identificar as fontes da página (tipografia)
+      - [x] Alterar fonte da página para usar a fonte Inter
     - [ ] Usar display flex para posicionamento dos elementos
     - [ ] Converter divs para tags semânticas como, por exemplo, `<header>` e `<strong>`
     - [ ] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos e adicionar padding
