@@ -22,6 +22,6 @@ Para começar, crie um fork do repositório
     - [x] Usar inspecionar elementos e/ou extensão para ver as cores da página
     - [x] Usar inspecionar elementos e/ou sources para identificar as fontes da página (tipografia)
       - [x] Alterar fonte da página para usar a fonte Inter
-    - [ ] Usar display flex para posicionamento dos elementos
-    - [ ] Converter divs para tags semânticas como, por exemplo, `<header>` e `<strong>`
-    - [ ] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos e adicionar padding
+    - [x] Usar display flex para posicionamento dos elementos
+    - [x] Converter divs para tags semânticas como, por exemplo, `<header>` e `<strong>`
+    - [x] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos e adicionar padding

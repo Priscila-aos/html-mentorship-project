@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    font-family: Titillium Web,sans-serif;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(0, 0%, 13%);
+    color: #ffffff;
+    padding: 20px 30px;    
+}
+
+.header-painel{
+    border:1px solid #ffffff;
+    border-radius: 30px 30px;
+    padding: 10px;
+}
