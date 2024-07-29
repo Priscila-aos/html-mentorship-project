@@ -15,6 +15,9 @@ html, body{
     padding: 20px 30px;    
 }
 
+img{
+    height: 15px;
+}
 .header-painel{
     border:1px solid #ffffff;
     border-radius: 30px 30px;
