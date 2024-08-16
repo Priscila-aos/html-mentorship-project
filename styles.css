@@ -10,16 +10,63 @@ html, body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: hsl(0, 0%, 13%);
+    background: #222222;
     color: #ffffff;
     padding: 20px 30px;    
+
+    width: 100%;
 }
 
 img{
     height: 15px;
 }
 .header-painel{
-    border:1px solid #ffffff;
+    border:1px solid #f7f8fa;
     border-radius: 30px 30px;
     padding: 10px;
+}
+
+.hero{
+    width: 100%;
+    height: 300px;
+
+    border: 1px solid red;
+
+    display: flex;
+    background:#f7f8fa;
+    align-items: center;
+    padding: 35px;
+    justify-content: space-between;
+}
+
+.hero-info{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 32px;
+    
+}
+
+
+.hero-image{
+  height: 222px;
+  width: 222px;
+ 
+}
+
+.hero-image img {
+    width: 100%;
+    border-radius: 50%;  
+}
+
+  .hero-actions button {
+    border-radius: 30px 30px; 
+    color: #fff;
+    background: linear-gradient(to left,#f1941e, #ff5858)
+}
+
+.description{
+    align-items: center;
+    padding: 0px 40px 0px 40px;
 }
