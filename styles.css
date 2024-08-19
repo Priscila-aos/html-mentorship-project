@@ -21,13 +21,20 @@ img{
     height: 15px;
 }
 .header-painel{
-    border:1px solid #f7f8fa;
+    border:1px solid #fff;
+    transition: all 0.1s ease-in-out;
     border-radius: 36px;
+    border-style: outset;
     display: flex;
     align-items: center;
     padding: 6px 14px;
     background: #222222;
     color: #fff;
+}
+
+.header-painel:hover{
+    border-style: outset;
+    transform: scale(1.02);
 }
 
 .hero{
