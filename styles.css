@@ -22,8 +22,12 @@ img{
 }
 .header-painel{
     border:1px solid #f7f8fa;
-    border-radius: 30px 30px;
-    padding: 10px;
+    border-radius: 36px;
+    display: flex;
+    align-items: center;
+    padding: 6px 14px;
+    background: #222222;
+    color: #fff;
 }
 
 .hero{

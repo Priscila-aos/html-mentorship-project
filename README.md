@@ -53,8 +53,8 @@ Para começar, crie um fork do repositório
     - [x] Estilize a sessão de `socialmedia-section` para que os ícones tenham a cor `#A1A5A9`, margem à direita de `15px` e tamanho da fonte de `26px`
     - [x] Estilize o subtítulo contendo o cargo do palestrante para que o `font-weight` fique `normal`
   - [x] Começar estilização dos botões da aplicação
-    - [ ] No botão do topo da página (dentro do `header`), centralizar o ícone e o texto do botão utilizando o `display: flex` e as devidas propriedades
-    - [ ] Use as propriedades CSS `color, background, padding, border-radius, border` para estilizar o botão de acordo com a referência (radius: `36px`, padding: `6px 14px`, border: `1px solid white`)
+    - [x] No botão do topo da página (dentro do `header`), centralizar o ícone e o texto do botão utilizando o `display: flex` e as devidas propriedades
+    - [x] Use as propriedades CSS `color, background, padding, border-radius, border` para estilizar o botão de acordo com a referência (radius: `36px`, padding: `6px 14px`, border: `1px solid white`)
     - [ ] Configure o estilo da borda para que usemos a propriedade `hover` para trocar o `border-style` para `outset`; e utilize também `transform: scale(1.02); transition: all 0.1s ease-in-out;`
     - [ ] Adicione estilos para que o ícone dentro do botão tenha uma margem à direita de `8px`
     - [ ] Defina estilos globais para que todo `button` tenha `cursor: pointer` e configure um `:disabled` global, com estilos à escolha e usando `cursor: not-allowed`
