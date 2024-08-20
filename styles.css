@@ -27,7 +27,7 @@ button:disabled {
 img{
     height: 15px;
 }
-.header-painel{
+.header-painel button{
     border:1px solid #fff;
     transition: all 0.1s ease-in-out;
     border-radius: 36px;
@@ -40,7 +40,7 @@ img{
 
 }
 
-.header-painel:hover{
+.header-painel button:hover{
     border-style: outset;
     transform: scale(1.02);
 }
@@ -57,7 +57,7 @@ img{
     background:#f7f8fa;
     align-items: center;
     padding: 35px;
-    justify-content: space-between;
+    
 }
 
 .hero-info{
@@ -84,13 +84,25 @@ img{
     height: 100%;
     border-radius: 50%;  
 }
-
-  .hero-actions button {
-    border-radius: 30px 30px; 
-    color: #fff;
-    background: linear-gradient(to left,#f1941e, #ff5858)
+.hero-actions{
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
-
+.hero-actions button {
+    border-radius: 36px; 
+    border: none;
+    color: #fff;
+    display: flex; 
+    align-items: center;
+    padding: 6px 14px;
+     
+    background: linear-gradient(to right,rgb(47, 162, 255), rgb(0, 255, 47))
+}
+.hero-actions button i {
+    margin-right: 4px;
+}
 .description{
     align-items: center;
     padding: 0px 40px 0px 40px;
